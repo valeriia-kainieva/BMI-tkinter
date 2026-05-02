@@ -1,3 +1,3 @@
-BMI Calculator
+**BMI Calculator**
 
-Simple Python tool for calculating body mass index based on height and weight.
+Python-based tool for calculating body mass index (BMI) with input validation and categorical interpretation (underweight, normal weight, overweight, obesity).
